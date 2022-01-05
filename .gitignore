@@ -2,3 +2,4 @@
 scratch*
 .*~
 Manifest.toml
+build/
